@@ -1,0 +1,23 @@
+$mainGray:  #555;
+$boxColor: #2f5572;
+
+body{
+  padding: 32px;
+  columns: 22px;
+  background-color: $mainGray;
+}
+
+
+.box {
+  a{
+    height: 200px;
+    width: 200px;
+    background-color: $boxColor;
+  }
+
+  b{
+    height: 400px;
+    width: 400px;
+    background-color: $boxColor;
+  }
+}

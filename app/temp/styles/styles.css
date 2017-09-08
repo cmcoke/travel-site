@@ -1,0 +1,20 @@
+body{
+  padding: 32px;
+  -webkit-columns: 22px;
+          columns: 22px;
+  background-color: #555;
+}
+
+
+.box a{
+    height: 200px;
+    width: 200px;
+    background-color: #2f5572;
+  }
+
+
+.box b{
+    height: 400px;
+    width: 400px;
+    background-color: #2f5572;
+  }
