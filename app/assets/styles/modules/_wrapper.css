@@ -10,6 +10,10 @@
     max-width: 976px;
   }
 
+  &--narrow{
+    max-width: 470px;
+  }
+
   &--no-padding-until-medium{
     padding-right:0px;
     padding-left: 0px;
@@ -29,9 +33,6 @@
       padding-right: 18px;
     }
   }
-
-
-
 
   .wrapper{
     padding-left: 0;
